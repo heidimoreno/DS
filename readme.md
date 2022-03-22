@@ -2,6 +2,4 @@
 
 Hello!
 
-Update file
-
-newbranch changes
+Branch2
